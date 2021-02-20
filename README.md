@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# :wave: Hello. Thanks for stopping by!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I'm **Mahesh**, currently a junior at the School Of Science And Engineering At Townview Magnet Center and an **aspiring Software Developer/Data Scientist**. I have experience working in **Fullstack Web Development** (with MERN and MEAN stacks/Flask) as well as **Data Science Libraries in Python** from the projects I'm working on, however, I **always have enthusiasm towards learning new things**, as I continue to learn more about Machine Learning, Data Science, and App Development.
 
-## Available Scripts
+![Mahesh's github stats](https://github-readme-stats.vercel.app/api?username=MaheshNat&show_icons=true&theme=dark)
 
-In the project directory, you can run:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshNat&theme=dark&langs_count=8)
 
-### `npm start`
+#### Contact me
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![Linkedin Badge](https://img.shields.io/badge/-Mahesh%20Natamai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahesh-natamai-b17683188/)](https://www.linkedin.com/in/mahesh-natamai-b17683188/)
+[![Gmail Badge](https://img.shields.io/badge/-maheshkumar.natamai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maheshkumar.natamai@gmail.com)](mailto:maheshkumar.natamai@gmail.com)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+&nbsp;
 
-### `npm test`
+## :computer: Technologies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Languages
 
-### `npm run build`
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeSript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frameworks and Databases
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js) ![Flask](https://img.shields.io/badge/-Flask-336791?style=flat-square&logo=flask) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square&logo=mysql) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![Redux](https://img.shields.io/badge/-Redux-336791?style=flat-square&logo=redux) ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular) ![Express](https://img.shields.io/badge/-Express-336791?style=flat-square) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-336791?style=flat-square&logo=bootstrap) ![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Data Science
 
-### `npm run eject`
+![Pandas](https://img.shields.io/badge/-Pandas-336791?style=flat-square&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=numpy) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+&nbsp;
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### :point_down: Want to take a look at my code? Check out my pinned repositories below. :point_down:
